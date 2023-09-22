@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MicrosoftSqlServer-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft&nbspSql&nbsp;Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 
